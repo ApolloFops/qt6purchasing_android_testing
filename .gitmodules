@@ -1,0 +1,4 @@
+[submodule "include/qt6purchasing"]
+	path = include/qt6purchasing
+	url = git@github.com:ApolloFops/qt6purchasing.git
+	branch = android-fixes
